@@ -2,7 +2,7 @@ Raspberry-Pi-Robot
 ==================
 
 A project to test out the raspberry pi GPIO's.
-This robot has so far no autonomy, and is controlled by ssh-ing to the raspberry pi and running the `motor_test.pi` script.
+This robot has so far no autonomy, and is controlled by ssh-ing to the raspberry pi and running the `motor_test.py` script.
 
 ## Parts used
 1. [Raspberry PI Model B](http://www.raspberrypi.org/products/model-b/)
